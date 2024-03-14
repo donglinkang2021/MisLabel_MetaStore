@@ -1,2 +1,2 @@
 source /home/donglinkang/.bashrc
-conda activate meta
+conda activate meta-store
